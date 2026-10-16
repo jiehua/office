@@ -16,6 +16,8 @@ url: https://github.com/jiehua/office/issues/1
 
 # 需求 MRD 文档
 
+> 存档：此 issue 已关闭，原评论说明“位置错误，不用在这里保存”。内容不属于办公室筹建，仅保留记录。
+
 ## 正文
 
 迁移自 https://github.com/jiehua/open_telescope/issues/1
