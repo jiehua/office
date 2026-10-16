@@ -2,6 +2,8 @@
 
 办公室设备放置规划见 [docs/office-equipment-plan.md](docs/office-equipment-plan.md)。改设备清单时直接编辑该文件并提交，GitHub 上的最新版本即为当前规划。
 
+多台 3D 打印机的台数和位置见 [docs/08-办公室放置多台3D打印机.md](docs/08-办公室放置多台3D打印机.md)。打印机只改这一份。
+
 GitHub issue 的完整 Markdown 副本在 [`docs/`](docs/)：
 
 1. [【存档】需求 MRD 文档](docs/【存档】01-需求-MRD-文档.md)（#1，已关闭）
